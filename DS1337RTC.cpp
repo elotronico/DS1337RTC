@@ -2,6 +2,7 @@
  * DS1337RTC.h - library for DS1337 RTC
   
   By Eric Trombly
+  Modified by elotronico
   
   modified from DS1307RTC.h (c) Michael Margolis 2009
   This library is intended to be uses with Arduino Time.h library functions
